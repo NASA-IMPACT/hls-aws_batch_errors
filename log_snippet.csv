@@ -1,0 +1,18 @@
+message
+Writing surface reflectance corrected data to the output files ... Fri Jul 31 20:15:23 2020
+  Band 1: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band1.img
+  Band 2: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band2.img
+  Band 3: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band3.img
+  Band 4: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band4.img
+  Band 5: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band5.img
+  Band 6: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band6.img
+  Band 7: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band7.img
+  Band 8: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band8.img
+  Band 8a: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band8a.img
+  Band 9: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band9.img
+  Band 10: S2A_MSI_L1C_T58UFF_20200710_20200710_sr_band10.img
+Error: write_raw_binary : Writing 120560400 elements of 2 bytes in size to the raw binary file.
+Error: put_output_lines : Error writing the output line(s) for band 10.
+Error: compute_sentinel_sr_refl : Writing output data for band 10
+Error: main : Error computing Sentinel-2 surface reflectance
+2020-07-31 20:15:31.145 109 ERROR    do_lasrc_sentinel.py:147:runSr -- Error running lasrc.  Processing will terminate.
