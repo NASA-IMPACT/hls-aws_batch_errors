@@ -1,0 +1,2 @@
+granule,exit_code,job_stopped,container,logstream
+S2A_MSIL1C_20200710T015701_N0209_R060_T56WMT_20200710T040520,1,2020-07-24 19:51:19.337,arn:aws:ecs:us-west-2:018923174646:container-instance/b9c52a67-8464-4e34-ba7b-c33a7649f086,SentinelTaskBatchJobDE3-581008467128b6c/default/fd8e96f0-2c03-4c08-9dba-5c21a856d11f
