@@ -1,13 +1,13 @@
-We ran 3 tests processing the same 176 files 
+We ran 3 tests processing the same 176 files
 
 The first and third tests both had `memory` configured as `15000` using which results in 4 jobs being placed per instance.
 The second test had the task's `memory` configured as `16000` using `r5d.2xlarge` instance types which results in 3 jobs being placed per instance.
 
-The first test resulted in a 16 [failures](Mar_29_S30_error_details.csv) of the 176 files processed.
+The first test resulted in 16 [failures](Mar_29_S30_error_details.csv).
 
 The second test (when only 3 jobs are placed per instance) resulted in 0 failures.
 
-The third test resulted in 16 [failures](Mar_31_S30_error_details.csv)
+The third test resulted in 16 [failures](Mar_31_S30_error_details.csv).
 
 The errors all occur when an intermediate output file is being written to disk by our scientific C [code](https://github.com/NASA-IMPACT/espa-product-formatter/blob/v3.0.2/raw_binary/io_libs/raw_binary_io.c#L99-L125/).  Below is a [snippet](log_snippet.csv) of the error.  This exception (with a few exceptions for the output band number) is the same for all of the errors.
 
