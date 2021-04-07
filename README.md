@@ -9,7 +9,7 @@ The second test (when only 3 jobs are placed per instance) resulted in 0 failure
 
 The third test resulted in 16 [failures](Mar_31_S30_error_details.csv).
 
-The errors all occur when an intermediate output file is being written to disk by our scientific C [code](https://github.com/NASA-IMPACT/espa-product-formatter/blob/v3.0.2/raw_binary/io_libs/raw_binary_io.c#L99-L125/).  Below is a [snippet](log_snippet.csv) of the error.  This exception (with a few exceptions for the output band number) is the same for all of the errors.
+The errors all occur when an intermediate output file is being written to disk by our scientific C [code](https://github.com/NASA-IMPACT/espa-product-formatter/blob/v3.0.2/raw_binary/io_libs/raw_binary_io.c#L99-L125/).  Below is a [snippet](Mar_29_S30_log_snippet.csv) of the error.  This exception (with a few exceptions for the output band number) is the same for all of the errors.
 
 Most notable is the absence of errors with only 3 jobs per instance and that the files causing the error are not consistent between the test runs.  In addition, the failures occur with completely different files in each test run.  This suggests some type of infrastructure failure.
 
