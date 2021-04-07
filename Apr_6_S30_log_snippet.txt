@@ -1,0 +1,17 @@
+Performing atmospheric correction ... Tue Apr  6 18:36:57 2021
+  Band 1
+  Band 2
+  Band 3
+  Band 4
+  Band 5
+  Band 6
+  Band 7
+  Band 8
+  Band 8a
+  Band 9
+  Band 10
+  -- Band 10 so just use the TOA values
+  Band 11
+  Band 12
+Writing surface reflectance corrected data to the output files ... Tue Apr  6 18:38:10 2021
+2021-04-06 18:38:35.659 118 ERROR    do_lasrc_sentinel.py:166:runSr -- Error running lasrc.  Processing will terminate.

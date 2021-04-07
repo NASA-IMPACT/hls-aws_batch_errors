@@ -1,0 +1,16 @@
+containerinstancearn,count
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/97f5f9c0a379430b9cbc6ef502079d71,2
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/1e1621557efb4badabaab2231f406b6d,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/24c4101dadd14c7ea3d9da37e788bd51,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/2b8df4dba2744344acb6da63385a7fc0,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/47b00980069f489484eec393e02db06d,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/50a170c4ca9640e89ae915c9564ef0ad,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/735dd4465c494f6cb99cf3014c1caf86,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/8538085561234f0c8dd030ed4e721c87,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/a95334090d964430bd2b9461d583fd28,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/b34b801f385e4395b75a9aa98bfc3bde,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/d17ea31e7e30471b8d7a544674995853,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/deae95d43b544af3b4650bcc13daad46,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/e82f61ff801f4693b3d05f8c6a9e18b2,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/05bfcdd318784281b6eec9c65bd5244a,1
+arn:aws:ecs:us-west-2:611670965994:container-instance/BatchComputeEnvironment-2c6ee744a3d7487_Batch_a6960493-0b76-330d-afff-bafb172b3bea/f4a185f628b240509b96b2db51f66868,1

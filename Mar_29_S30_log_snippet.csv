@@ -1,0 +1,17 @@
+Writing surface reflectance corrected data to the output files ... Mon Mar 29 15:09:22 2021
+  Band 1: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band1.img
+  Band 2: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band2.img
+  Band 3: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band3.img
+  Band 4: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band4.img
+  Band 5: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band5.img
+  Band 6: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band6.img
+  Band 7: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band7.img
+  Band 8: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band8.img
+  Band 8a: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band8a.img
+  Band 9: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band9.img
+  Band 10: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band10.img
+  Band 11: S2B_MSI_L1C_T32TPR_20200423_20200423_sr_band11.img
+Error: write_raw_binary : Writing 120560400 elements of 2 bytes in size to the raw binary file. Actually wrote 27928576 elements.
+Error: put_output_lines : Error writing the output line(s) for band 11.
+Error: compute_sentinel_sr_refl : Writing output data for band 11
+Error: main : Error computing Sentinel-2 surface reflectance
