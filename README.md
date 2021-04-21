@@ -18,3 +18,6 @@ Since the errors are associated with writing output I assumed there may be a scr
 The Cloudwatch agent is running on all of our instances so if we view relevant instance metrics for the first failure in this [list](Mar_31_S30_error_details.csv) we can see that we are not exceeding instance store space and that our instance memory utilization is below 50 percent.
 
 So I am a bit stumped at what may be causing these inconsistent failures.  The failures seem evenly distriburted across instances in the cluster.  You can view the number of failures per instance during the Mar 31 test run [here](Mar_31_S30_container_failures.csv).
+
+### Investigating scratch failures
+After our meeting with support on April 21 I ran the test suite in the development environment.  I reviewed the Cloudwatch metrics for the instance where the following container [failure](failure_log_timestamps.csv) ocurred.  Here are screenshots of the `nvme1n1` metrics for [disk_used_percent](failure_scratch_disk_used.png) and [disk_inodes_free](failure_scratch_inodes.png). There do not appear to be any resource contention issues here at the timestamp of the failure.
