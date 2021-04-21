@@ -1,0 +1,260 @@
+timestamp,message
+1619032276544,"export ACCODE=""LaSRCL8V3.5.5"""
+1619032276544,"export AWS_BATCH_CE_NAME=""BatchComputeEnvironment-dce63fa88a7422c"""
+1619032276544,"export AWS_BATCH_JOB_ATTEMPT=""1"""
+1619032276544,"export AWS_BATCH_JOB_ID=""7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a"""
+1619032276544,"export AWS_BATCH_JQ_NAME=""BatchSentinelJobQueue2E-146f7f3ea0ab1d8"""
+1619032276544,"export AWS_CONTAINER_CREDENTIALS_RELATIVE_URI=""/v2/credentials/0ae3d05a-c3c8-4eaa-bc8e-525974f8ca7d"""
+1619032276544,"export AWS_EXECUTION_ENV=""AWS_ECS_EC2"""
+1619032276544,"export CURLINC=""/usr/local/curl/include"""
+1619032276544,"export CURLLIB=""/usr/local/curl/lib"""
+1619032276544,"export CURL_PREFIX=""/usr/local/curl"""
+1619032276544,"export DEBUG_BUCKET=""hls-debug-output"""
+1619032276544,"export ECS_CONTAINER_METADATA_URI=""http://169.254.170.2/v3/31f0c9d1-92ee-48c7-8ce6-09716092a502"""
+1619032276544,"export ECS_CONTAINER_METADATA_URI_V4=""http://169.254.170.2/v4/31f0c9d1-92ee-48c7-8ce6-09716092a502"""
+1619032276544,"export ECS_ENABLE_TASK_IAM_ROLE=""true"""
+1619032276544,"export ESPAINC=""/usr/local/include"""
+1619032276544,"export ESPALIB=""/usr/local/lib"""
+1619032276544,"export ESPA_SCHEMA=""/usr/local/schema/espa_internal_metadata_v2_2.xsd"""
+1619032276544,"export FREETYPE2INC=""/usr/local/include"""
+1619032276544,"export FREETYPE2LIB=""/usr/local/lib"""
+1619032276544,"export FREETYPE2_PREFIX=""/usr/local"""
+1619032276544,"export GCTPINC=""/usr/local/include"""
+1619032276544,"export GCTPLIB=""/usr/local/lib"""
+1619032276544,"export GCTPLINK=""-lGctp -lm"""
+1619032276544,"export GDAL_INC=""/usr/local/include"""
+1619032276544,"export GDAL_LIB=""/usr/local/lib"""
+1619032276544,"export GDAL_PREFIX=""/usr/local"""
+1619032276544,"export GEOTIFFINC=""/usr/local/include"""
+1619032276544,"export GEOTIFFLIB=""/usr/local/lib"""
+1619032276544,"export GEOTIFF_INC=""/usr/local/include"""
+1619032276544,"export GEOTIFF_LIB=""/usr/local/lib"""
+1619032276544,"export GEOTIFF_PREFIX=""/usr/local"""
+1619032276544,"export GRANULE_LIST=""S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511"""
+1619032276544,"export HDF4INC=""/usr/local/include"""
+1619032276544,"export HDF4LIB=""/usr/local/lib"""
+1619032276544,"export HDF4_PREFIX=""/usr/local"""
+1619032276544,"export HDF5INC=""/usr/local/include"""
+1619032276544,"export HDF5LIB=""/usr/local/lib"""
+1619032276544,"export HDF5_PREFIX=""/usr/local"""
+1619032276544,"export HDFEOS5_INC=""/usr/local/include"""
+1619032276544,"export HDFEOS5_LIB=""/usr/local/lib"""
+1619032276544,"export HDFEOS5_PREFIX=""/usr/local"""
+1619032276544,"export HDFEOSINC=""/usr/local/include"""
+1619032276544,"export HDFEOSLIB=""/usr/local/lib"""
+1619032276544,"export HDFEOS_GCTPINC=""/usr/local/include"""
+1619032276544,"export HDFEOS_GCTPLIB=""/usr/local/lib"""
+1619032276544,"export HDFEOS_INC=""/usr/local/include"""
+1619032276544,"export HDFEOS_LIB=""/usr/local/lib"""
+1619032276544,"export HDFEOS_PREFIX=""/usr/local"""
+1619032276544,"export HDFINC=""/usr/local/include"""
+1619032276544,"export HDFLIB=""/usr/local/lib"""
+1619032276544,"export HDFLINK="" -lmfhdf -ldf -lm"""
+1619032276544,"export HOME=""/root"""
+1619032276544,"export HOSTNAME=""ip-10-1-128-244.us-west-2.compute.internal"""
+1619032276544,"export IDNINC=""/usr/local/idn/include"""
+1619032276544,"export IDNLIB=""/usr/local/idn/lib"""
+1619032276544,"export IDN_PREFIX=""/usr/local/idn"""
+1619032276544,"export INPUT_BUCKET=""hls-sentinel-validation-scenes/cloud_free_google"""
+1619032276544,"export JBIGINC=""/usr/local/include"""
+1619032276544,"export JBIGLIB=""/usr/local/lib"""
+1619032276544,"export JBIG_PREFIX=""/usr/local"""
+1619032276544,"export JPEGINC=""/usr/local/include"""
+1619032276544,"export JPEGLIB=""/usr/local/lib"""
+1619032276544,"export JPEG_PREFIX=""/usr/local"""
+1619032276544,"export JPGLIB=""/usr/local/lib"""
+1619032276544,"export LANG=""en_US.utf-8"""
+1619032276544,"export LASRC_AUX_DIR=""/var/lasrc_aux"""
+1619032276544,"export LC_ALL=""en_US.utf-8"""
+1619032276544,"export LD_LIBRARY_PATH=""/usr/lib64:/usr/local/lib"""
+1619032276544,"export LZMAINC=""/usr/local/include"""
+1619032276544,"export LZMALIB=""/usr/local/lib"""
+1619032276544,"export NCDF4INC=""/usr/local/include"""
+1619032276544,"export NCDF4LIB=""/usr/local/lib"""
+1619032276544,"export NETCDF4INC=""/usr/local/include"""
+1619032276544,"export NETCDF4LIB=""/usr/local/lib"""
+1619032276544,"export NETCDF4_PREFIX=""/usr/local"""
+1619032276544,export OLDPWD
+1619032276544,"export OMP_NUM_THREADS=""2"""
+1619032276544,"export PATH=""/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"""
+1619032276544,"export PKGCONFIG_PREFIX=""/usr/local"""
+1619032276544,"export PKG_CONFIG_PATH=""/usr/local/lib/pkgconfig/"""
+1619032276544,"export PNGINC=""/usr/local/include"""
+1619032276544,"export PNGLIB=""/usr/local/lib"""
+1619032276544,"export PNG_PREFIX=""/usr/local"""
+1619032276544,"export PREFIX=""/usr/local"""
+1619032276544,"export PROJ4_INC=""/usr/local/include"""
+1619032276544,"export PROJ4_LIB=""/usr/local/lib"""
+1619032276544,"export PROJ4_PREFIX=""/usr/local"""
+1619032276544,"export PROJLIB=""/usr/local/lib"""
+1619032276544,"export PWD=""/"""
+1619032276544,"export PYTHONPATH="":/usr/local/lib/python3.6/site-packages:/usr/local/lib/python3.6/site-packages"""
+1619032276544,"export REPLACE_EXISTING=""replace"""
+1619032276544,"export SHLVL=""1"""
+1619032276544,"export SRC_DIR=""/usr/local/src"""
+1619032276544,"export SZIPINC=""/usr/local/include"""
+1619032276544,"export SZIPLIB=""/usr/local/lib"""
+1619032276544,"export SZIP_PREFIX=""/usr/local"""
+1619032276544,"export SZLIB=""/usr/local/lib"""
+1619032276544,"export TIFFINC=""/usr/local/include"""
+1619032276544,"export TIFFLIB=""/usr/local/lib"""
+1619032276544,"export TIFF_PREFIX=""/usr/local"""
+1619032276544,"export XML2INC=""/usr/local/include/libxml2"""
+1619032276544,"export XML2LIB=""/usr/local/lib"""
+1619032276544,"export XML2_PREFIX=""/usr/local"""
+1619032276544,"export XSLTINC=""/usr/local/include/libxslt"""
+1619032276544,"export XSLTLIB=""/usr/local/lib"""
+1619032276544,"export XSLT_PREFIX=""/usr/local"""
+1619032276544,"export XZINC=""/usr/local/include"""
+1619032276544,"export XZLIB=""/usr/local/lib"""
+1619032276544,"export XZ_PREFIX=""/usr/local"""
+1619032276544,"export ZLIB=""/usr/local/lib"""
+1619032276544,"export ZLIBINC=""/usr/local/include"""
+1619032276544,"export ZLIBLIB=""/usr/local/lib"""
+1619032276544,"export ZLIB_PREFIX=""/usr/local"""
+1619032276549,Start processing granules
+1619032277401,An error occurred (AccessDenied) when calling the ListBuckets operation: Access Denied
+1619032288458,Check solar azimuth
+1619032288524,Running derive_s2ang
+1619032640868,------------------------------------------
+1619032640868,Setting up environment variables
+1619032640868,---
+1619032640868,LD_LIBRARY_PATH is .:/usr/local/MATLAB/v96/runtime/glnxa64:/usr/local/MATLAB/v96/bin/glnxa64:/usr/local/MATLAB/v96/sys/os/glnxa64:/usr/local/MATLAB/v96/sys/opengl/lib/glnxa64
+1619032640868,Fmask 4.3 start ...
+1619032640868,Cloud/cloud shadow/snow dilated by 3/3/0 pixels.
+1619032640868,Cloud probability threshold of 20.00%.
+1619032640868,Load or calculate TOA reflectances.
+1619032640868,"Detect potential clouds, cloud shadows, snow, and water."
+1619032640868,Match cloud shadows with clouds.
+1619032640868,Fmask 4.3 finished (5.33 minutes)
+1619032640868,for L1C_T31TFJ_A025130_20200414T103654 with 99.43% clear pixels
+1619032640870,for L1C_T31TFJ_A025130_20200414T103654 with 99.43% clear pixels
+1619032640870,Running parse_fmask
+1619032640942,Granule is valid
+1619032640942,Converting to flat binary
+1619032640955,"Input file size is 5490, 5490"
+1619032641095,0...10...20...30...40...50...60...70...80...90...100 - done.
+1619032641298,2021-04-21 19:17:21.298 110 INFO     unpackage_s2.py:82:unpackage -- Unpackaging Sentinel-2 package /var/scratch/7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511.zip into /var/scratch/7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511
+1619032644743,2021-04-21 19:17:24.743 110 INFO     unpackage_s2.py:141:unpackage -- Changing directories to: /var/scratch/7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511.SAFE
+1619032646399,2021-04-21 19:17:26.398 110 INFO     unpackage_s2.py:266:unpackage -- Completion of Sentinel-2 unpackaging into: /var/scratch/7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511.SAFE
+1619032646508,Folder opened successfully
+1619032646508,"File Number 0 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B02.jp2"""
+1619032669352,"File Number 1 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B11.jp2"""
+1619032676342,"File Number 2 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B04.jp2"""
+1619032700470,"File Number 3 ""T31TFJ_20200414T103021_TCI.jp2"""
+1619032739141,"File Number 4 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B09.jp2"""
+1619032739951,"File Number 5 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B08.jp2"""
+1619032764778,"File Number 6 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B10.jp2"""
+1619032765385,"File Number 7 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B05.jp2"""
+1619032773625,"File Number 8 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B12.jp2"""
+1619032780974,"File Number 9 ""MTD_TL.xml"""
+1619032780974,skipping file...
+1619032780974,"File Number 10 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B03.jp2"""
+1619032804186,"File Number 11 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B8A.jp2"""
+1619032811337,"File Number 12 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B01.jp2"""
+1619032812143,"File Number 13 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B06.jp2"""
+1619032819149,"File Number 14 ""MTD_MSIL1C.xml"""
+1619032819149,skipping file...
+1619032819149,"File Number 15 ""S2A_MSI_L1C_T31TFJ_20200414_20200414_B07.jp2"""
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 10980x10980x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 10980x10980x15 unsigned
+1619032826269,Raw image characteristics: 3 components
+1619032826269,Component 0 characteristics: 10980x10980x8 unsigned
+1619032826269,Component 1 characteristics: 10980x10980x8 unsigned
+1619032826269,Component 2 characteristics: 10980x10980x8 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 1830x1830x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 10980x10980x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 1830x1830x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 10980x10980x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 1830x1830x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826269,Raw image characteristics: 1 components
+1619032826269,Component 0 characteristics: 5490x5490x15 unsigned
+1619032826273,convert_sentinel_to_espa version: 3.0.2 (Collection 2)
+1619032826273,DEBUG: product_id starting: T31TFJ_20200414T103021
+1619032826273,DEBUG: s2_tile: T31TFJ
+1619032826322,2021-04-21 19:20:26.322 117 INFO     do_lasrc_sentinel.py:93:runSr -- Surface reflectance processing of Sentinel-2 file: S2A_MSI_L1C_T31TFJ_20200414_20200414.xml
+1619032826322,2021-04-21 19:20:26.322 117 INFO     do_lasrc_sentinel.py:105:runSr -- Processing XML file: S2A_MSI_L1C_T31TFJ_20200414_20200414.xml
+1619032826322,2021-04-21 19:20:26.322 117 INFO     do_lasrc_sentinel.py:122:runSr -- Changing directories for surface reflectance processing: /var/scratch/7b13155e-6c58-4bf7-85f6-fd9dc6cf1c6a/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511/S2A_MSIL1C_20200414T103021_N0209_R108_T31TFJ_20200414T123511.SAFE
+1619034656033,2021-04-21 19:50:56.033 117 INFO     do_lasrc_sentinel.py:163:runSr -- Starting TOA and surface reflectance processing ...
+1619034656033,Using the semi-empirical approach for aerosol inversion
+1619034656033,  XML input file: S2A_MSI_L1C_T31TFJ_20200414_20200414.xml
+1619034656033,  AUX input file: L8ANC2020105.hdf_fused
+1619034656033,Metadata satellite: Sentinel-2A
+1619034656033,"         satellite (L8=0, L9=1, S2=2): 2"
+1619034656033,"         instrument (OLI/TIRS=0, OLI=1, MSI=2): 2"
+1619034656033,  Nband: 13
+1619034656033,  Number of lines/samples: 10980/10980
+1619034656033,"  Pixsize: 10.000000,10.000000"
+1619034656033,  Nband thermal: 0
+1619034656033,  Number of thermal lines/samples: 0/0
+1619034656033,"  Pixsize: 0.000000,0.000000"
+1619034656033,  Nband QA: 0
+1619034656033,  Number of qa lines/samples: 10980/10980
+1619034656033,"  Pixsize: 10.000000,10.000000"
+1619034656033,  Fill value: 0
+1619034656033,  Solar zenith: 36.618927
+1619034656033,  Solar azimuth: 153.967224
+1619034656033,Allocating memory for the data arrays ...
+1619034656033,Reading Sentinel-2 TOA reflectance bands...
+1619034656033,Performing atmospheric corrections for each reflectance band ...
+1619034656033,Start surface reflectance corrections: Wed Apr 21 19:20:39 2021
+1619034656033,"All Sentinel-2 bands will be processed, including bands 9 and 10, which is not the default."
+1619034656033,The LUTs for urban clean case v3.0 have been read.  We can now perform atmospheric correction.
+1619034656033,"Scene center line/sample: 5490.000000, 5490.000000"
+1619034656033,"Scene center lat/long: 43.742935, 4.923742"
+1619034656033,"   uwv, uoz, pres: 0.645000, 0.357500, 990.374634"
+1619034656033,Performing atmospheric corrections for each Sentinel reflectance band ... Wed Apr 21 19:20:40 2021
+1619034656033,  Band 1
+1619034656033,  Band 2
+1619034656033,  Band 3
+1619034656033,  Band 4
+1619034656033,  Band 5
+1619034656033,  Band 6
+1619034656033,  Band 7
+1619034656033,  Band 8
+1619034656033,  Band 8a
+1619034656033,  Band 9
+1619034656033,  Band 10
+1619034656033,  Band 11
+1619034656033,  Band 12
+1619034656033,Starting retrieval of atmospheric correction parameters ... Wed Apr 21 19:20:46 2021
+1619034656033,Obtaining the coefficients for the semi-empirical approach ... Wed Apr 21 19:20:46 2021
+1619034656033,Aerosol Inversion using 6 x 6 aerosol window ... Wed Apr 21 19:20:46 2021
+1619034656033,Interpolating the aerosol values in the 6x6 windows Wed Apr 21 19:21:09 2021
+1619034656033,Expand the failed pixels Wed Apr 21 19:21:48 2021
+1619034656033,Averaging the failed pixels Wed Apr 21 19:21:50 2021
+1619034656033,"Second Pass  Pass number: 2, number of non-filled pixels: 1486150"
+1619034656033,Performing atmospheric correction ... Wed Apr 21 19:49:35 2021
+1619034656033,  Band 1
+1619034656033,  Band 2
+1619034656033,  Band 3
+1619034656033,  Band 4
+1619034656033,  Band 5
+1619034656033,  Band 6
+1619034656033,  Band 7
+1619034656033,  Band 8
+1619034656033,  Band 8a
+1619034656033,  Band 9
+1619034656033,  Band 10
+1619034656033,  -- Band 10 so just use the TOA values
+1619034656033,  Band 11
+1619034656033,  Band 12
+1619034656033,Writing surface reflectance corrected data to the output files ... Wed Apr 21 19:50:41 2021
+1619034656033,2021-04-21 19:50:56.033 117 ERROR    do_lasrc_sentinel.py:166:runSr -- Error running lasrc.  Processing will terminate.
